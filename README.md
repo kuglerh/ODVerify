@@ -1,5 +1,7 @@
 Adversarial Attacks on Object Detection Models Using Formal Verification Methods
 ======================
+Paper Submitted to CAV'24
+
 This project is the culmination of our Bachelor of Science in Computer Engineering at Bar-Ilan.
 
 Installation and Setup
