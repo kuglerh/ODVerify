@@ -43,25 +43,6 @@ To run the project on any data set of your choice do as following:
 2. save the detections of the images before the attack and save them as a `.npy` file called `Y_yolo.npy`
 3. place them both in this root direction `complete_verifier/datasets/yolo/`
 
-
-Publications
-----------------------
-
-
-Developers and Copyright
-----------------------
-Our project was developed by a team from Bar-Ilan University University, Faculty of Engineering. Israel.
-
-
-Main developers:  
-* Omer Cohen, Bar-Ilan University
-* Yael Leibovich Weiss, Bar-Ilan University
-
-Advisors:  
-* Avraham Raviv, Bar-Ilan University
-* Hillel Kugler, Bar-Ilan University
-
-
 This project utilizes the α,β-CROWN library for neural network verification developed by Verified Intelligence.
 
 - α-CROWN: [Xu et al., 2021](https://arxiv.org/pdf/2011.13824.pdf)
